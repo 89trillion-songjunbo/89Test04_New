@@ -63,8 +63,5 @@
 ![Image](https://github.com/89trillion-songjunbo/89Test04_New/blob/main/89Test04%20脚本流程图.png)
 
 
-8、游戏运行流程图
-![Image](https://github.com/89trillion-songjunbo/89Test03/blob/master/89Test03.png)
-
 
 
